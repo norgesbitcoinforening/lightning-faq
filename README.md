@@ -1,2 +1,2 @@
-# lightning-faq
-Lightning FAQ by Audun Gulbrandsen
+#Lightning FAQ by Audun Gulbrandsen
+Languages: English
